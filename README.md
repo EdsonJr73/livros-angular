@@ -1,5 +1,7 @@
 # LivrosAngular
 
+Projeto do nível 4 do mundo 2 do curso de Desenvolvimento Full Stack
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
 ## Development server
